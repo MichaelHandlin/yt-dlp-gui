@@ -1,5 +1,5 @@
 # yt-dlp-gui
-A simple python tool to utilize yt-dlp with a GUI
+A simple python tool to utilize yt-dlp with a GUI. This application was made to assist individuals who are not very experienced with command line tools.
 
 # Installation
 1. Install the newest release of Python from https://www.python.org/downloads/.
